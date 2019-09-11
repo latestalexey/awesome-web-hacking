@@ -61,7 +61,7 @@ Table of Contents
    * https://github.com/tecknicaltom/dsniff - dsniff is a collection of tools for network auditing and penetration testing.
    * https://github.com/WangYihang/Webshell-Sniper - Manage your webshell via terminal.
    * https://github.com/DanMcInerney/dnsspoof - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
-   * Spyse.py
+   * https://github.com/zeropwn/spyse.py - python wrapper for using most of spyse tools 
    * https://github.com/trustedsec/social-engineer-toolkit - The Social-Engineer Toolkit (SET) repository from TrustedSec
    * https://github.com/sqlmapproject/sqlmap - Automatic SQL injection and database takeover tool
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
