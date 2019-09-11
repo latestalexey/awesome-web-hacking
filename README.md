@@ -48,10 +48,12 @@ Table of Contents
 ## Tools
 
    * http://www.metasploit.com/ - World's most used penetration testing software
+   * https://findsubdomains.com - Online subdomain scanner service with lots of additional data. Works using OSINT
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
    * https://github.com/sullo/nikto - Nikto web server scanner
    * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
    * http://www.portswigger.net/burp/intruder.html - Burp Intruder is a tool for automating customized attacks against web apps.
+   * https://github.com/wireshark/wireshark - web vulnerability scanning tool
    * http://www.openvas.org/ - The world's most advanced Open Source vulnerability scanner and manager.
    * https://github.com/iSECPartners/Scout2 - Security auditing tool for AWS environments
    * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project - Is a multi threaded java application designed to brute force directories and files names on web/application servers.
@@ -59,6 +61,7 @@ Table of Contents
    * https://github.com/tecknicaltom/dsniff - dsniff is a collection of tools for network auditing and penetration testing.
    * https://github.com/WangYihang/Webshell-Sniper - Manage your webshell via terminal.
    * https://github.com/DanMcInerney/dnsspoof - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
+   * https://github.com/zeropwn/spyse.py - python wrapper for using most of spyse tools 
    * https://github.com/trustedsec/social-engineer-toolkit - The Social-Engineer Toolkit (SET) repository from TrustedSec
    * https://github.com/sqlmapproject/sqlmap - Automatic SQL injection and database takeover tool
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
@@ -187,7 +190,7 @@ Table of Contents
 
 
 ## SSL
-
+   * http://certdb.com - SSL/TLS data provider about digital certs - issuer, organisation, types of certs, expiration dates, etc... 
    * https://www.ssllabs.com/ssltest/index.html - This service performs a deep analysis of the configuration of any SSL web server on the public Internet.
    * https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html - Strong SSL Security on nginx
    * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
